@@ -7,4 +7,4 @@
 
 
 
-### See my solution:
+### See my solution:  https://valentinazn.github.io/Front-end-mentor-challenge-ping.com/
